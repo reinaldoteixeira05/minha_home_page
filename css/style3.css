@@ -7,7 +7,7 @@ body{
 
 }
 header{
-    background-color: rgb(119, 129, 129);
+    background-color: rgb(161, 161, 161);
     color: white;
     padding: 20px;
     text-align: center;
@@ -18,7 +18,7 @@ header{
 }
 nav{
     overflow: hidden;
-    background-color:rgb(221, 221, 221) ;
+    background-color: bisque;
     
 }
 nav a{
