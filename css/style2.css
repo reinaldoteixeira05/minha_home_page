@@ -1,0 +1,62 @@
+body{
+    
+    margin: 0;
+    background: url("../img/basquete2.jpg") 
+    center center;
+    background-size: cover;
+    line-height: 40px;
+
+}
+
+nav{
+    
+    overflow: hidden;
+    background-color: #f05e59fa;
+    
+    
+}
+main{
+    margin: 10px 10px;
+    padding: 10px;
+    width: 70%;
+    height: 400px;
+    
+    background-color: #108c96d9;
+    text-align: center;
+    float: right;
+    border-radius: 20px;
+    
+    
+}
+#perfil{
+    border: #108c96 solid 4px;
+    border-radius: 20px;
+}
+.foto{
+    padding: 30px;
+    float: left;
+    
+}
+.textos{
+    color: white;
+    text-align: left;
+    padding-top: 50px;
+    padding-left: 7px;
+    line-height: 1.5;
+    font-size: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav a{
+    
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    transition: 0.3s;
+}
+nav a:hover{
+    opacity: 80%;
+}
